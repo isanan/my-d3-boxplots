@@ -1,4 +1,8 @@
-my-d3-boxplots
-==============
+boxplots-d3-horizonal-transitions
+=================================
 
-D3 Boxplots with axes and horizontal transitions
+Modification of Mike Bostock's code to allow for horizontal transitions. 
+
+Example usage here http://sachsmc.github.io/boxplots-d3-horizontal-transitions 
+
+Original here http://bl.ocks.org/mbostock/4061502
